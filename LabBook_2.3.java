@@ -1,6 +1,7 @@
 public class Person {
 	private String name;
 	private int perId;
+	private long phoneNo;
 	public Person(String name, int perId) {
 		super();
 		this.name = name;
